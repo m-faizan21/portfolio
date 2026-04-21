@@ -155,6 +155,7 @@ export const Hero = () => {
       </div>
     </div>
     {/* Scroll Down Indicator */}
+    
     <div
       className="absolute bottom-8 left-1/2 -translate-x-1/2 
     animate-fade-in animation-delay-800"
@@ -167,6 +168,8 @@ export const Hero = () => {
         <ChevronDown className="w-6 h-6 animate-bounce" />
       </a>
     </div>
+
+
   </section>;
 };
     
