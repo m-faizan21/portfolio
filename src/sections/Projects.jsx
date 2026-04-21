@@ -25,11 +25,11 @@ const projects = [
   {
     title: "Expense Tracker",
     description:
-      "A web application that helps users track their expenses and manage their budget effectively.",
-    image: "/projects/project1.png",
+      "A professional MERN stack dashboard for real-time expense tracking and budget management, featuring dynamic data visualization and secure authentication.",
+    image: "/projects/expenseTracker.png",
     tags: ["React", "Node.js", "Express", "MongoDB"],
-    link: "#",
-    github: "https://github.com/m-faizan21",
+    link: "https://track-expense-pro.vercel.app",
+    github: "https://github.com/m-faizan21/ExpenseTracker",
     
   },
 
