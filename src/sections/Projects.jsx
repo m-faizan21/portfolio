@@ -8,7 +8,7 @@ const projects = [
       "Developed a high-fidelity Netflix UI clone featuring dynamic content rendering through TMDB API integration to fetch movie names and high-quality imagery. Utilizing React alongside HTML, CSS, and JavaScript, I built a responsive, mobile-first interface that mimics the original platform's professional design and interactive components. This project showcases my ability to manage real-time data and deliver a seamless, user-centric digital experience",
     image: "/projects/netflixclone.png",
     tags: ["React", "Html", "CSS","JavaScript"],
-    link: "https://netflixclone-eight-beige.vercel.app/",
+    link: "https://movie-streaming-ui-project.vercel.app/",
     github: "https://github.com/m-faizan21/Netflix-UI-Clone",
     
   },
